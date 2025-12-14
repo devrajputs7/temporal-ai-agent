@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from typing import Any, Deque, Dict, List, Literal, Optional, Union
 
+
 from models.tool_definitions import AgentGoal
 
 
